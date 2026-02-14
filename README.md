@@ -7,123 +7,40 @@
 <h1 align="center">Daniel Gallego</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Microservices Architect | AI Integration</strong><br/>
-  .NET • Node.js • Clean Architecture • Azure • AWS
+  <b>AI-Integrated Full Stack Engineer</b><br/>
+  Microservices • Clean Architecture • Cloud Systems
 </p>
-
----
-
-## 🚀 About Me
-
-Full Stack Developer with 4+ years of experience building scalable web applications and distributed systems.  
-Strong frontend foundation combined with solid backend architecture knowledge.
-
-Specialized in:
-
-- Microservices Architecture (DDD)
-- RESTful API Design
-- Event-Driven Systems (RabbitMQ)
-- JWT Authentication & Security
-- Clean Architecture
-- Cloud Deployments (Azure & AWS)
-- AI Integration using OpenAI APIs
-
-I focus on building maintainable, scalable and production-ready systems.
-
----
-
-## 🧠 Core Expertise
-
-- ✅ Domain-Driven Design (DDD)
-- ✅ Microservices & Event-Driven Architecture
-- ✅ Secure API Development
-- ✅ Unit Testing & Code Coverage
-- ✅ Cloud Infrastructure
-- ✅ Automation & AI-Enhanced Solutions
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Backend
-- .NET Framework 4.8
-- ASP.NET MVC
-- Node.js
-- NestJS
-- Spring Boot
-
-### 🔹 Frontend
-- Angular
-- React
-- React Native
-- HTML5
-- CSS3
-- JavaScript
-
-### 🔹 Databases
-- SQL Server
-- MySQL
-- DynamoDB
-
-### 🔹 Cloud & DevOps
-- Microsoft Azure
-- AWS (Lambda, S3, DynamoDB)
-- RabbitMQ
-- Swagger
-- JWT Authentication
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Medical Microservices System
-Architecture based on DDD with:
-- Personas Service
-- Citas Service
-- Recetas Service
-- RabbitMQ Communication
-- JWT Security
-- Unit Testing Coverage
-
----
-
-### 🤖 Funnelchat IA
-AI-powered business assistant using OpenAI API with dynamic business configuration and automation workflows.
-
----
-
-### 📊 HyperClass
-Machine Learning system using Random Forest for hypertension classification.
-Stack:
-- FastAPI (Backend)
-- React (Frontend)
-- Jupyter + ML Models
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933"/>
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0078D4"/>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E"/>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🧠 Engineering Profile
 
-- Build scalable AI-integrated systems
-- Contribute to high-impact cloud projects
-- Strengthen System Design & Architecture expertise
-- Expand international collaboration
+Full Stack Developer with 4+ years of experience designing scalable, secure and production-grade systems.
 
----
+- Architecting microservices using DDD principles  
+- Building event-driven systems with RabbitMQ  
+- Designing secure REST APIs with JWT  
+- Deploying cloud-native solutions in Azure & AWS  
+- Integrating AI workflows using OpenAI APIs  
 
-## 📫 Contact
-
-📧 gallegodaniel62@gmail.com  
-💼 LinkedIn: (Add your link here)
+I focus on performance, maintainability and clean system design.
 
 ---
 
-⭐ Always building. Always learning.
+## ⚙️ Core Architecture Skills
+
+```text
+✔ Microservices Architecture
+✔ Domain-Driven Design (DDD)
+✔ Event-Driven Systems
+✔ Secure API Development
+✔ Clean Architecture
+✔ Unit Testing & Code Coverage
+✔ Cloud Infrastructure
