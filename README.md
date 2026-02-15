@@ -37,7 +37,6 @@
 ## 📊 Activity & Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel-a-0ss&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-a-0ss&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -59,7 +58,7 @@
 ## 🌎 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/dann2/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
