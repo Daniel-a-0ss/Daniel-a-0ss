@@ -12,12 +12,18 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 NotionClone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=NotionClone&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Daniel-a-0ss/NotionClone">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
-s
+
+<p align="center">
+  Electron • Node • Offline-first notes app inspired by Notion
+</p>
+
 ---
 
 ## 🧠 Tech Stack
