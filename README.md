@@ -12,18 +12,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=ai-platform&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=microservices-core&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=NotionClone&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=enterprise-api&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-a-0ss&repo=cloud-architecture&theme=tokyonight&hide_border=true"/>
-</p>
-
+s
 ---
 
 ## 🧠 Tech Stack
